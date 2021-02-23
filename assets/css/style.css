@@ -266,6 +266,9 @@ hr {
 .content {
     margin: 60px;
     background-color: white;
+}
+
+.content p {
     line-height: 1.5;
 }
 
